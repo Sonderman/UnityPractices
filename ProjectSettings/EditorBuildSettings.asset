@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PathFAndSensoryS2/PathFAndSensoryS2.unity
     guid: b21ab604c5aa53947abd0a28cd0edf00
+  - enabled: 1
+    path: Assets/EventSystemWithSingleton/EventSystemWithSingleton.unity
+    guid: 21dce997a570cc840853c93bebb30a7d
   m_configObjects: {}
