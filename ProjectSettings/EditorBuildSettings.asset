@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PathFWithSingleton/PathFWithSingleton.unity
     guid: facb769220cb2c648aefc5e9c7cff29b
+  - enabled: 1
+    path: Assets/Door System/DoorSystem.unity
+    guid: 993215127db3b624e8e57a40587334e0
   m_configObjects: {}
