@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Door System/DoorSystem.unity
     guid: 993215127db3b624e8e57a40587334e0
+  - enabled: 1
+    path: Assets/ObjectPooling/ObjectPooling.unity
+    guid: 16d616bf004476e4ebe7053840575967
   m_configObjects: {}
