@@ -22,7 +22,7 @@ public class SingletonPath : MonoBehaviour
         if (Instance== null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject);
+            //DontDestroyOnLoad(gameObject);
         }else
         {
             //Sahne değişiminde oluşacak olan kopya nesneyi yok eder.
